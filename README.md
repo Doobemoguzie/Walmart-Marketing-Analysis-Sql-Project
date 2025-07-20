@@ -84,5 +84,5 @@ This is a portfolio-ready project meant to demonstrate **real-world problem-solv
 Let me know what you think!  
 ➡️ [LinkedIn Profile](https://www.linkedin.com/in/prosper-oguzie-54a706336?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B923%2BDiFtTI%2BINEUj%2FKow%2Bg%3D%3D) 
 
-➡️ [Email](Prosperoguzie379@gmail.com)
+➡️  [Prosperoguzie379@gmail.com](mailto:Prosperoguzie379@gmail.com)
 

@@ -6,7 +6,7 @@
 ## 👤 Prepared By  
 **Oguzie Prosper Chidubem**  
 *Aspiring Data Analyst*  
-📍 Nigeria | 📧 [Email](Prosperoguzie379@gmail.com) | 💼 [LinkedIn URL](https://www.linkedin.com/in/prosper-oguzie-54a706336?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBlCZC%2FZjSNOg%2B6NAHcsLgg%3D%3D)
+📍 Nigeria |  📧 [Prosperoguzie379@gmail.com](mailto:Prosperoguzie379@gmail.com) | 💼 [LinkedIn URL](https://www.linkedin.com/in/prosper-oguzie-54a706336?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBlCZC%2FZjSNOg%2B6NAHcsLgg%3D%3D)
 
 ---
 
