@@ -28,17 +28,17 @@
 
 ---
 
-## 👋 Introduction
+### 👋 Introduction
 *"Hi, let me walk you through my Power BI dashboard titled **‘Product Performance Overview’**, which is part of a broader analysis I did for a retail brand — in this case, modeled around Walmart."*
 
 ---
 
-## 🧊 Intro & Purpose
+### 🧊 Intro & Purpose
 *"The goal of this dashboard is to provide a quick yet insightful view into the company's overall product performance — covering inventory status, pricing trends, product ratings, and customer engagement."*
 
 ---
 
-## 📊 Key KPI Cards
+### 📊 Key KPI Cards
 
 *"At the top, I’ve summarized four core KPIs to give immediate business context:"*
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📈 Visual Insights
+### 📈 Visual Insights
 
 - *"On the **left**, I’ve included an **inventory status donut chart**, helping us visualize the in-stock vs. out-of-stock percentage — a great way to quickly assess product availability."*
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 🧠 Actionable Insights
+### 🧠 Actionable Insights
 
 - *"If I were in a business role, I’d immediately investigate why some **high-performing products are out of stock** — since that directly affects **revenue** and **customer loyalty**."*
 
@@ -67,13 +67,13 @@
 
 ---
 
-## 🎯 Why It Stands Out
+### 🎯 Why It Stands Out
 
 *"I designed this dashboard to be **visually clean and accessible**, with **recruiter-friendly colors** and a focus on **high-impact business KPIs**. All visuals are interactive, enabling **drill-downs** based on stock status, ratings, or time period."*
 
 ---
 
-## ✅ Close
+### ✅ Close
 
 *"This is just **one page** out of a **multi-tab report** that also includes **customer behavior** and **stock loss analysis**. Happy to walk you through the other tabs and show you the backend."*
 
@@ -84,12 +84,12 @@
 
 ---
 
-## 👋 Introduction  
+### 👋 Introduction  
 *"Let’s now move to the second page of my Power BI report — titled **Customer & Marketing Insights**. The purpose of this page is to explore how customers are interacting with products, how satisfied they are, and where the marketing focus should shift."*
 
 ---
 
-## 📊 Top-Level KPIs  
+### 📊 Top-Level KPIs  
 *"Here at the top, I’ve highlighted key metrics that tell the story of customer engagement:"*
 
 - 💬 **314K Total Reviews** – Reflects a strong volume of customer feedback and indicates **high product visibility**.  
@@ -98,27 +98,27 @@
 
 ---
 
-## 📈 Memory Size vs Satisfaction  
+### 📈 Memory Size vs Satisfaction  
 *"On the left-hand side, I’ve broken down customer satisfaction by **memory size**. Interestingly, **6 GB** and **512 GB** variants score the highest, while **64 GB** and **16 GB** surprisingly score lower — suggesting **pricing or performance expectations** aren’t being met."*
 
 ---
 
-## ⭐ Customer Ratings Breakdown  
+### ⭐ Customer Ratings Breakdown  
 *"This stacked bar chart shows **rating distribution by brand**. **VIZIO** clearly dominates with a high number of 4- and 5-star reviews. **The Clorox Company** and **Honeywell** also rank well, while brands like **Garmin** barely register — possibly due to **low exposure** or **underperformance**."*
 
 ---
 
-## 💬 Talked About or Trusted? (Reviews vs Ratings)  
+### 💬 Talked About or Trusted? (Reviews vs Ratings)  
 *"This scatterplot compares the **number of reviews** with **average ratings** — helping us identify products that are both **popular and trusted**. Some products with high review counts have **low ratings**, which signals a **marketing challenge**: strong attention, weak satisfaction. These are perfect candidates for **quality improvement** or **expectation realignment**."*
 
 ---
 
-## ⚖️ Stock Pressure vs Consumer Demand  
+### ⚖️ Stock Pressure vs Consumer Demand  
 *"This bar chart compares **review volumes between in-stock and out-of-stock items**. The out-of-stock products are getting much more attention — a classic **stock-out risk**. These are **high-demand items** that we’re potentially **losing sales** on. This helps align **demand forecasting** with **supply chain performance**."*
 
 ---
 
-## 🧠 Actionable Insights  
+### 🧠 Actionable Insights  
 
 - *Prioritize investigating the **21,000 low-rated products**. Run **sentiment analysis** to identify major pain points.*  
 - *Collaborate with **inventory and fulfillment teams** to restock **highly-reviewed but unavailable** items faster.*  
@@ -126,25 +126,25 @@
 
 ---
 
-## 🧱 Why This Page Adds Value  
+### 🧱 Why This Page Adds Value  
 *"What sets this dashboard apart is how it **blends customer feedback with operational data** — enabling action from both ends: improving **product satisfaction** and ensuring **supply readiness**."*
 
 ---
 
-## ✅ Wrap-Up  
+### ✅ Wrap-Up  
 *"This **customer insights page** provides a **critical lens** into **demand**, **satisfaction**, and **potential risks**. It's also fully **filterable** by stock, ratings, and time — giving decision-makers the flexibility to drill down into whatever segment they care about most."*
 
 
-# 🎙️ Walkthrough Script – Stock Risk & Revenue Impact Page
+## 🎙️ Walkthrough Script – Stock Risk & Revenue Impact Page
 
 ---
 
-## 👋 Introduction  
+### 👋 Introduction  
 *"The third and final page of this report focuses on the **financial and operational risks** caused by stock shortages. It ties together **inventory management** and **revenue protection** — helping decision-makers understand what’s at stake when **demand outpaces supply**."*
 
 ---
 
-## 📊 Key KPI Cards  
+### 📊 Key KPI Cards  
 *"Up top, we have four critical KPIs that guide this view:"*
 
 - ❗ **12.3% Out of Stock** – Roughly **1 in every 8 products** is unavailable, which presents a **major operational and sales risk**.  
@@ -154,7 +154,6 @@
 
 ---
 
-## 📈 Visuals & Analysis  
 
 ### 🏭 Inventory Balance Across Manufacturers  
 *"This bar chart compares **in-stock vs. out-of-stock counts by manufacturer**. Apple leads in both stocked and missing inventory, showing it's a **key player** but possibly strained on the **logistics or production side**."*
@@ -173,19 +172,19 @@
 
 ---
 
-## 🧠 Actionable Recommendations  
+### 🧠 Actionable Recommendations  
 
 - *Develop a **forecast model** based on **review volume**, **rating trends**, and **past sell-through** to **predict stockouts** before they happen.*  
 - *Use **lost revenue metrics** to highlight the **cost of inaction**, guiding **inventory investment** and **supplier performance reviews**.*  
 
 ---
 
-## ⚡ Why This Page Matters  
+### ⚡ Why This Page Matters  
 *"Most dashboards stop at performance. This page goes further — it **quantifies risk** and **exposes revenue leaks**. That makes it **strategic**, especially for **CFOs**, **category managers**, and **operations leaders**."*
 
 ---
 
-## ✅ Wrap-Up  
+### ✅ Wrap-Up  
 *"This concludes the **3-page dashboard**. Each tab offers a different lens: **product performance**, **customer behavior**, and **operational risk**. Combined, they empower businesses to take **informed**, **proactive action**."*
 
 
