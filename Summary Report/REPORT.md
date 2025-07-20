@@ -134,6 +134,7 @@
 ### ✅ Wrap-Up  
 *"This **customer insights page** provides a **critical lens** into **demand**, **satisfaction**, and **potential risks**. It's also fully **filterable** by stock, ratings, and time — giving decision-makers the flexibility to drill down into whatever segment they care about most."*
 
+---
 
 ## 🎙️ Walkthrough Script – Stock Risk & Revenue Impact Page
 
