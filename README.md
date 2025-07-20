@@ -61,11 +61,11 @@ The cleaned dataset was then imported into **Power BI** for modeling and visuali
 ---
 
 ## 🛠 Skills Demonstrated  
-- ✅ Data Cleaning with **Power Query in Excel**  
-- ✅ DAX Calculations (Month extraction, ranking, conditional metrics)  
-- ✅ Data Modeling and Relationship Management in Power BI  
-- ✅ Data Storytelling: crafting a clean, executive-ready 3-page layout  
-- ✅ Use of advanced visuals (custom KPIs, donut layers, conditional formatting)
+- ✅ Data Cleaning with **Power Query in Excel.**  
+- ✅ DAX Calculations (Month extraction, ranking, conditional metrics).  
+- ✅ Data Modeling and Relationship Management in Power BI.  
+- ✅ Data Storytelling: crafting a clean, executive-ready 3-page layout. 
+- ✅ Use of advanced visuals (custom KPIs, donut layers, conditional formatting).
 
 ---
 
